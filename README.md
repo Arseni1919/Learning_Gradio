@@ -6,6 +6,5 @@
 ## Useful Links
 - [Getting Started](https://www.gradio.app/getting_started)
 - [Docs](https://www.gradio.app/docs)
-- []()
 
 
