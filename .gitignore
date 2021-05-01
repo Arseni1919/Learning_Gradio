@@ -5,6 +5,7 @@ env
 .pytest_cache
 .coverage
 .idea
+flagged
 .neptune
 lightning_logs
 .ckpt
